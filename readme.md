@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm Amine Allab.</h1>
 
 <p align="left">
-  <a href="https://amineallab-portfolio.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">LinkedIn</a> 
 </p>
 
@@ -92,5 +91,4 @@ Here are the tools, languages, and frameworks I use across different fields:
 
 Feel free to reach out if you want to collaborate on software projects, talk about AI, or discuss anything hardware/electronics-related.
 
-- **LinkedIn:**[Amine Allab](https://www.linkedin.com/in/amine-allab-3b84ab2b3/)
-- **Portfolio:** [amineallab-portfolio.vercel.app](https://amineallab-portfolio.vercel.app/)
+- **LinkedIn:** [Amine Allab](https://www.linkedin.com/in/amine-allab-3b84ab2b3/)
