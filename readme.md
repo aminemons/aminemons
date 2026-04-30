@@ -1,85 +1,96 @@
-<div align="center">
-  <h1>Hi there, I'm Amine Allab! 👋</h1>
-  <h3>🚀 Software & AI Developer | 🔬 Micro & Nano Electronics Enthusiast</h3>
-  
-  <p>
-    <a href="https://amineallab-portfolio.vercel.app/" target="_blank">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">LinkedIn</a> 
-  </p>
-</div>
+<h1 align="left">Hi, I'm Amine Allab.</h1>
+
+<p align="left">
+  <a href="https://amineallab-portfolio.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">LinkedIn</a> 
+</p>
+
+I'm a developer who builds web and mobile applications, trains machine learning models, and studies the hardware they run on. 
+
+What sets my profile apart is my strong interest in micro and nano-electronics. I don't just want to write high-level software—I like understanding the underlying chip design, embedded systems, and hardware architectures that make computation possible. 
+
+If I'm not writing code for a new web project or tweaking an AI model, I'm probably reading up on semiconductor tech or low-level programming.
 
 ---
 
-### 🌟 About Me
+### 💻 My Tech Stack
 
-Welcome to my GitHub! I am a passionate developer who thrives at the intersection of **Artificial Intelligence, Software Engineering, and Hardware**. I love writing clean, scalable code and building intelligent systems that solve real-world problems.
+Here are the tools, languages, and frameworks I use across different fields:
 
-- 💻 **Software & AI Engineering:** I specialize in developing robust software applications and integrating machine learning algorithms to create smart, data-driven solutions.
-- 🔬 **The Hardware Connection:** Beyond code, I have a deep-rooted enthusiasm for **Micro and Nano Electronics**. I am fascinated by how underlying hardware architectures power top-level software and AI.
-- 🚀 **Constant Learner:** Always exploring new frameworks, optimizing neural networks, and reading up on the latest semiconductor and nanotechnology advancements.
-- 🤝 **Let's Collaborate:** I'm always open to discussing AI innovations, embedded systems, or exciting software projects!
+#### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+#### 🧠 AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+
+#### 🔬 Chip Design, Micro/Nano Electronics & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-092E20?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=alteryx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontrollers-333333?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLSI_Design-00599C?style=for-the-badge&logo=nxp&logoColor=white" />
+</p>
+
+#### 🛠️ Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📊 GitHub Stats
 
-*(Note: You can add or remove badges to perfectly match your exact stack)*
-
-**Artificial Intelligence & Data Science:**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-**Software Development:**
-<br>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Hardware & Electronics Knowledge:**
-<br>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-000000?style=for-the-badge&logo=microchip&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <!-- NOTE: Replace 'YOUR_GITHUB_USERNAME' below with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Get in touch
 
-<div align="center">
-  <!-- IMPORTANT: Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+Feel free to reach out if you want to collaborate on software projects, talk about AI, or discuss anything hardware/electronics-related.
 
----
-
-### 🚀 Featured Work & Projects
-
-- 🌐 **[My Portfolio Website](https://amineallab-portfolio.vercel.app/)**: A showcase of my latest development work, technical projects, and background.
-- 🧠 **AI & Machine Learning**: *(Link a repo here, e.g., neural networks, computer vision, or NLP projects)*
-- ⚡ **Electronics / Low-level code**: *(Link a repo here if you have any C/C++ hardware-level or microcontroller projects)*
-
----
-
-### 📫 Let's Connect!
-
-I'm always excited to connect with fellow developers, engineers, and tech enthusiasts.
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://amineallab-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Bridging the gap between the nanoscale and artificial intelligence."</i>
-</div>
+- **LinkedIn:**[Amine Allab](https://www.linkedin.com/in/amine-allab-3b84ab2b3/)
+- **Portfolio:** [amineallab-portfolio.vercel.app](https://amineallab-portfolio.vercel.app/)
