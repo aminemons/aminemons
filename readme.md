@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">LinkedIn</a> 
 </p>
 
-I'm a developer who builds web and mobile applications, trains machine learning models, and studies the hardware they run on. 
+I'm a developer who builds web and mobile applications, trains machine learning models, and studies the hardware they run on—spanning from classical computing architectures to emerging quantum technologies. 
 
-What sets my profile apart is my strong interest in micro and nano-electronics. I don't just want to write high-level software—I like understanding the underlying chip design, embedded systems, and hardware architectures that make computation possible. 
+What sets my profile apart is my strong interest in the intersection of software and the physical laws of computation. Beyond high-level software, classical chip design, and embedded systems, I am deeply fascinated by **quantum computing**, **quantum machine learning (QML)**, and the **micro/nano-electronic** principles that make quantum hardware (such as solid-state and superconducting qubits) possible.
 
-If I'm not writing code for a new web project or tweaking an AI model, I'm probably reading up on semiconductor tech or low-level programming.
+If I'm not writing code for a new web project or tweaking an AI model, I'm probably reading up on semiconductor tech, low-level programming, or the latest advancements in quantum devices.
 
 ---
 
@@ -52,7 +52,16 @@ Here are the tools, languages, and frameworks I use across different fields:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-#### 🔬 Chip Design, Micro/Nano Electronics & Hardware
+#### ⚛️ Quantum Computing & QML
+<p align="left">
+  <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PennyLane-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cirq-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Quantum-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_Machine_Learning-0B5C92?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+#### 🔬 Chip Design, Micro/Nano Electronics & Quantum Hardware
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -64,6 +73,9 @@ Here are the tools, languages, and frameworks I use across different fields:
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Microcontrollers-333333?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/VLSI_Design-00599C?style=for-the-badge&logo=nxp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nanotechnology-150458?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solid--State_Qubits-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Quantum_Hardware-000000?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 #### 🛠️ Databases & Tools
@@ -89,6 +101,6 @@ Here are the tools, languages, and frameworks I use across different fields:
 
 ### 📫 Get in touch
 
-Feel free to reach out if you want to collaborate on software projects, talk about AI, or discuss anything hardware/electronics-related.
+Feel free to reach out if you want to collaborate on software projects, talk about classical/quantum AI, or discuss anything related to hardware, micro/nano-electronics, and quantum computing.
 
-- **LinkedIn:** [Amine Allab](https://www.linkedin.com/in/amine-allab-3b84ab2b3/)
+- **LinkedIn:**[Amine Allab](https://www.linkedin.com/in/amine-allab-3b84ab2b3/)
