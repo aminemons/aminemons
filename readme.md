@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=121212&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=aminemons&color=121212&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
 
 </div>
 
