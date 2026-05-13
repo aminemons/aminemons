@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
   </a> 
 </p>
 
@@ -14,92 +14,92 @@ If I'm not writing code for a new web project or tweaking an AI model, I'm proba
 
 ---
 
-### 💻 My Tech Stack
+### My Tech Stack
 
-#### 🌐 Web Development
+#### Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/React-1C1C1C?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Next.js-262626?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/CSS3-262626?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F0F0F" />
 </p>
 
-#### 📱 Mobile Development
+#### Mobile Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-121212?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-121212?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-121212?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Dart-141414?style=for-the-badge&logo=dart&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/React_Native-1C1C1C?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Kotlin-262626?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Android-2E2E2E?style=for-the-badge&logo=android&logoColor=white&labelColor=141414" />
 </p>
 
-#### 🧠 AI & Machine Learning
+#### AI & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-121212?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-121212?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-121212?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/PyTorch-1C1C1C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/scikit--learn-262626?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Keras-2E2E2E?style=for-the-badge&logo=Keras&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NumPy-141414?style=for-the-badge&logo=numpy&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/OpenCV-1C1C1C?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-262626?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Jupyter-2E2E2E?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=141414" />
 </p>
 
-#### ⚛️ Quantum Computing & QML
+#### Quantum Computing & QML
 <p align="left">
-  <img src="https://img.shields.io/badge/Qiskit-121212?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PennyLane-121212?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cirq-121212?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow_Quantum-121212?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantum_Machine_Learning-121212?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-0A0A0A?style=for-the-badge&logo=qiskit&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PennyLane-141414?style=for-the-badge&logo=python&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/Cirq-1C1C1C?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/TensorFlow_Quantum-262626?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Quantum_Machine_Learning-2E2E2E?style=for-the-badge&logo=openai&logoColor=white&labelColor=141414" />
 </p>
 
-#### 🔬 Chip Design, Micro/Nano Electronics & Quantum Hardware
+#### Chip Design, Micro/Nano Electronics & Quantum Hardware
 <p align="left">
-  <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-121212?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-121212?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-121212?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-121212?style=for-the-badge&logo=alteryx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-121212?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-121212?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microcontrollers-121212?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLSI_Design-121212?style=for-the-badge&logo=nxp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nanotechnology-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Solid--State_Qubits-121212?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quantum_Hardware-121212?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C%2B%2B-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/MATLAB-1C1C1C?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Verilog-262626?style=for-the-badge&logo=verilog&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/VHDL-2E2E2E?style=for-the-badge&logo=alteryx&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Arduino-141414?style=for-the-badge&logo=arduino&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-1C1C1C?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Microcontrollers-262626?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/VLSI_Design-2E2E2E?style=for-the-badge&logo=nxp&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Nanotechnology-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Solid--State_Qubits-141414?style=for-the-badge&logo=react&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/Quantum_Hardware-1C1C1C?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A0A0A" />
 </p>
 
-#### 🛠️ Databases & Tools
+#### Databases & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-141414?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Docker-262626?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=white&labelColor=141414" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <!-- NOTE: Replace 'YOUR_GITHUB_USERNAME' below with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=121212&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=121212&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D0D0D60&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0D0D0D60&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B&hide_border=false" width="48%" />
 </p>
 
 ---
 
-### 📫 Get in touch
+### Get in touch
 
 Feel free to reach out if you want to collaborate on software projects, talk about classical/quantum AI, or discuss anything related to hardware, micro/nano-electronics, and quantum computing.
 
