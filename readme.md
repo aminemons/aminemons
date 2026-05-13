@@ -1,55 +1,48 @@
-<h1 align="left">Hi, I'm Amine Allab.</h1>
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-  </a> 
-</p>
+# Amine Allab
+**Software Engineer | Machine Learning | Quantum Computing & Hardware**
 
-I'm a developer who builds web and mobile applications, trains machine learning models, and studies the hardware they run on—spanning from classical computing architectures to emerging quantum technologies. 
+<a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=121212&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
 
-What sets my profile apart is my strong interest in the intersection of software and the physical laws of computation. Beyond high-level software, classical chip design, and embedded systems, I am deeply fascinated by **quantum computing**, **quantum machine learning (QML)**, and the **micro/nano-electronic** principles that make quantum hardware (such as solid-state and superconducting qubits) possible.
+</div>
 
-If I'm not writing code for a new web project or tweaking an AI model, I'm probably reading up on semiconductor tech, low-level programming, or the latest advancements in quantum devices.
+<br/>
+
+### About Architecture & Philosophy
+
+I engineer software and study the physical laws of computation. My work spans from high-level application development to classical chip design, embedded systems, and emerging quantum technologies. What sets my engineering approach apart is a deep focus on the intersection of software abstractions and physical hardware execution.
+
+* **Focus Area:** Quantum computing, Quantum Machine Learning (QML), and the micro/nano-electronic principles of solid-state and superconducting qubits.
+* **Current Objective:** Bridging classical machine learning architectures with low-level hardware constraints and quantum algorithmic optimizations.
+* **Off-Screen:** Researching semiconductor technology, VLSI design, and low-level system programming.
 
 ---
 
-### My Tech Stack
+### Technical Infrastructure
 
-#### Web Development
+#### Application & Web Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=white&labelColor=050505" />
   <img src="https://img.shields.io/badge/React-1C1C1C?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Next.js-262626?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F0F0F" />
   <img src="https://img.shields.io/badge/Node.js-2E2E2E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=141414" />
-  <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/CSS3-262626?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F0F0F" />
-</p>
-
-#### Mobile Development
-<p align="left">
   <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Dart-141414?style=for-the-badge&logo=dart&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/React_Native-1C1C1C?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Kotlin-262626?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/Android-2E2E2E?style=for-the-badge&logo=android&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Kotlin-141414?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=050505" />
 </p>
 
-#### AI & Machine Learning
+#### Artificial Intelligence & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=050505" />
   <img src="https://img.shields.io/badge/PyTorch-1C1C1C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/scikit--learn-262626?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/Keras-2E2E2E?style=for-the-badge&logo=Keras&logoColor=white&labelColor=141414" />
-  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/NumPy-141414?style=for-the-badge&logo=numpy&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/OpenCV-1C1C1C?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-262626?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/Jupyter-2E2E2E?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/OpenCV-2E2E2E?style=for-the-badge&logo=opencv&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000" />
 </p>
 
 #### Quantum Computing & QML
@@ -58,49 +51,35 @@ If I'm not writing code for a new web project or tweaking an AI model, I'm proba
   <img src="https://img.shields.io/badge/PennyLane-141414?style=for-the-badge&logo=python&logoColor=white&labelColor=050505" />
   <img src="https://img.shields.io/badge/Cirq-1C1C1C?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/TensorFlow_Quantum-262626?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/Quantum_Machine_Learning-2E2E2E?style=for-the-badge&logo=openai&logoColor=white&labelColor=141414" />
 </p>
 
-#### Chip Design, Micro/Nano Electronics & Quantum Hardware
+#### Hardware, Systems & Dev Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/C%2B%2B-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/MATLAB-1C1C1C?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Verilog-262626?style=for-the-badge&logo=verilog&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/VHDL-2E2E2E?style=for-the-badge&logo=alteryx&logoColor=white&labelColor=141414" />
-  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Arduino-141414?style=for-the-badge&logo=arduino&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-1C1C1C?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Microcontrollers-262626?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/VLSI_Design-2E2E2E?style=for-the-badge&logo=nxp&logoColor=white&labelColor=141414" />
-  <img src="https://img.shields.io/badge/Nanotechnology-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Solid--State_Qubits-141414?style=for-the-badge&logo=react&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Quantum_Hardware-1C1C1C?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A0A0A" />
-</p>
-
-#### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MongoDB-141414?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Docker-262626?style=for-the-badge&logo=docker&logoColor=white&labelColor=0F0F0F" />
-  <img src="https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Verilog-1C1C1C?style=for-the-badge&logo=verilog&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/VHDL-262626?style=for-the-badge&logo=alteryx&logoColor=white&labelColor=0F0F0F" />
+  <img src="https://img.shields.io/badge/Linux-2E2E2E?style=for-the-badge&logo=linux&logoColor=white&labelColor=141414" />
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A" />
 </p>
 
 ---
 
-### GitHub Stats
+### Engineering Analytics
 
-<p align="left">
-  <!-- NOTE: Replace 'YOUR_GITHUB_USERNAME' below with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D0D0D60&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0D0D0D60&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B&hide_border=false" width="48%" />
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D0D0D80&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0D0D0D80&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D0D0D80&border=2B2B2B&stroke=FFFFFF&ring=2B2B2B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=A3A3A3&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=A3A3A3&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
-
----
-
-### Get in touch
-
-Feel free to reach out if you want to collaborate on software projects, talk about classical/quantum AI, or discuss anything related to hardware, micro/nano-electronics, and quantum computing.
-
-- **LinkedIn:** <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">Amine Allab</a>
