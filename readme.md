@@ -67,13 +67,8 @@ I engineer software and study the physical laws of computation. My work spans fr
 
 ---
 
-### Engineering Analytics
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminemons&show_icons=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B" height="192" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminemons&layout=compact&bg_color=0D0D0D&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2B2B2B" height="192" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminemons&theme=dark&background=0D0D0D&border=2B2B2B&stroke=FFFFFF&ring=2B2B2B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=A3A3A3&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=A3A3A3" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminemons&theme=dark&background=0D0D0D80&border=2B2B2B&stroke=FFFFFF&ring=2B2B2B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=A3A3A3&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=A3A3A3&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
