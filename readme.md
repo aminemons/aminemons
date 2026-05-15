@@ -1,7 +1,7 @@
 <div align="center">
 
 # Amine Allab
-**Software Engineer | Machine Learning | Quantum Computing & Hardware**
+**Micro and nanoelectronics student | Machine Learning | Quantum Computing & Hardware**
 
 <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
