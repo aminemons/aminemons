@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-label="Model the physics. Understand the constraints. Build the system.">
+<rect width="1280" height="100" rx="12" fill="#000000"/>
+<rect x="1" y="1" width="1278" height="98" rx="11" fill="none" stroke="#292929" stroke-width="2"/>
+<line x1="48" y1="50" x2="142" y2="50" stroke="#909090" stroke-width="1.5"/>
+<text x="640" y="56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.45" fill="#DDDDDD">MODEL THE PHYSICS. UNDERSTAND THE CONSTRAINTS. BUILD THE SYSTEM.</text>
+<line x1="1138" y1="50" x2="1232" y2="50" stroke="#909090" stroke-width="1.5"/>
+</svg>
