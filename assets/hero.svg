@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="408" viewBox="0 0 1280 408" role="img" aria-labelledby="title desc">
+  <title id="title">Amine Allab — Micro and Nanoelectronics, AI and Quantum Hardware</title>
+  <desc id="desc">Minimal monochrome GitHub profile banner with a technical chip and quantum circuit illustration.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000"/><stop offset=".65" stop-color="#000000"/><stop offset="1" stop-color="#111111"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#202020" stroke-width="0.7"/></pattern>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3C3C3C"/><stop offset="1" stop-color="#0C0C0C"/></linearGradient>
+    <clipPath id="art"><rect x="824" y="16" width="436" height="375" rx="0"/></clipPath>
+  </defs>
+  <rect width="1280" height="408" rx="14" fill="url(#fade)"/>
+  <rect x="1" y="1" width="1278" height="406" rx="13" fill="none" stroke="#292929" stroke-width="2"/>
+  <rect x="830" y="1" width="450" height="406" fill="url(#grid)" opacity="0.75"/>
+  <line x1="60" y1="59" x2="160" y2="59" stroke="#EAEAEA" stroke-width="3"/>
+  <text x="60" y="92" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3.6" fill="#BDBDBD" font-weight="700">RESEARCH  /  ENGINEERING  /  OPEN SOURCE</text>
+  <text x="54" y="206" font-family="Arial, Helvetica, sans-serif" font-size="98" letter-spacing="-5" fill="#FFFFFF" font-weight="800">AMINE ALLAB</text>
+  <text x="60" y="256" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.2" fill="#F1F1F1" font-weight="700">MICRO &amp; NANOELECTRONICS</text>
+  <text x="60" y="288" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing=".5" fill="#B9B9B9">Physics-aware AI  ·  Quantum computing  ·  Digital hardware</text>
+  <line x1="60" y1="328" x2="763" y2="328" stroke="#393939" stroke-width="1"/>
+  <circle cx="65" cy="358" r="4" fill="#F6F6F6"/>
+  <text x="84" y="363" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.1" fill="#A6A6A6">ENSNN  ·  ALGERIA</text>
+  <text x="741" y="363" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.1" fill="#A6A6A6">GITHUB / AMINEMONS</text>
+  <g clip-path="url(#art)" stroke-linecap="square">
+    <circle cx="1073" cy="202" r="172" fill="none" stroke="#262626" stroke-width="1.4"/>
+    <circle cx="1073" cy="202" r="143" fill="none" stroke="#2B2B2B" stroke-width="1.2" stroke-dasharray="4 9"/>
+    <circle cx="1073" cy="202" r="117" fill="none" stroke="#383838" stroke-width="1"/>
+    <path d="M826 202 H954 M1192 202 H1260 M1073 0 V90 M1073 314 V408" stroke="#464646" stroke-width="2"/>
+    <path d="M849 93 H930 V136 H967 M849 312 H930 V268 H967 M1254 93 H1216 V136 H1178 M1254 312 H1216 V268 H1178" fill="none" stroke="#434343" stroke-width="2"/>
+    <circle cx="849" cy="93" r="4" fill="#999999" stroke="none"/><circle cx="849" cy="312" r="4" fill="#999999" stroke="none"/><circle cx="1254" cy="93" r="4" fill="#999999" stroke="none"/><circle cx="1254" cy="312" r="4" fill="#999999" stroke="none"/>
+    <g stroke="#A0A0A0" fill="none" stroke-width="2">
+      <path d="M963 124 H1183 V280 H963 Z"/>
+      <path d="M975 136 H1171 V268 H975 Z" stroke="#343434"/>
+      <rect x="991" y="150" width="164" height="104" rx="5" fill="url(#chip)" stroke="#929292"/>
+    </g>
+    <g stroke="#8E8E8E" stroke-width="2">
+      <path d="M978 145 V126 M1004 145 V126 M1030 145 V126 M1056 145 V126 M1082 145 V126 M1108 145 V126 M1134 145 V126"/>
+      <path d="M978 258 V277 M1004 258 V277 M1030 258 V277 M1056 258 V277 M1082 258 V277 M1108 258 V277 M1134 258 V277"/>
+      <path d="M983 164 H964 M983 190 H964 M983 216 H964 M983 242 H964"/>
+      <path d="M1163 164 H1182 M1163 190 H1182 M1163 216 H1182 M1163 242 H1182"/>
+    </g>
+    <g fill="none" stroke="#D2D2D2" stroke-width="1.55">
+      <ellipse cx="1073" cy="201" rx="61" ry="20" transform="rotate(-36 1073 201)"/>
+      <ellipse cx="1073" cy="201" rx="61" ry="20" transform="rotate(36 1073 201)"/>
+      <ellipse cx="1073" cy="201" rx="61" ry="20" transform="rotate(90 1073 201)"/>
+    </g>
+    <circle cx="1073" cy="201" r="10" fill="#FAFAFA"/>
+    <circle cx="1032" cy="172" r="4.3" fill="#D1D1D1"/>
+    <circle cx="1123" cy="191" r="4.3" fill="#D1D1D1"/>
+    <circle cx="1073" cy="250" r="4.3" fill="#D1D1D1"/>
+    <text x="1073" y="314" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" text-anchor="middle" fill="#A8A8A8">DEVICE → MODEL → HARDWARE</text>
+  </g>
+</svg>
