@@ -4,7 +4,6 @@
 
 **Micro & Nanoelectronics student · AI · Quantum Computing · Software**
 
-<a href="https://allabamine.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/amine-allab-3b84ab2b3/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=aminemons&color=000000&style=for-the-badge&label=Views" alt="Profile views" />
 
