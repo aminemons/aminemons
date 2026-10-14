@@ -11,13 +11,11 @@
 
 ---
 
-### Hey 👋
+### hello
 
 I'm a 4th-year **Micro & Nanoelectronics** student at ENSNN in Algeria.
 
 I like building software, but I'm also really interested in what happens closer to the hardware — chips, quantum circuits, and using ML to solve engineering problems.
-
-I worked on **AI-based microheater optimization for gas sensors** at CDTA. These days I'm exploring more of the overlap between electronics, ML, and quantum computing.
 
 ### Some things I've built
 
