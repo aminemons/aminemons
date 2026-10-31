@@ -33,6 +33,4 @@ I like building software, but I'm also really interested in what happens closer 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminemons&theme=dark&background=000000&border=242424&stroke=FFFFFF&ring=777777&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=A3A3A3&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=A3A3A3&hide_border=false" alt="GitHub streak" width="78%" />
-</div>
+
